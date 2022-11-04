@@ -65,6 +65,8 @@ Summary:
 Being a complex machine, Neural Network has lot of moving parts to keep track of. 
 Neural Network is a complex machine with “black box” nature and it’s difficult to understand how it arrives at certain prediction. Therefore, its difficult to predict what would help improve accuracy of this model to the desired result of above 75% accuracy except for a lot of brute-force experimentation. Tweaking and adjusting the hyperparameters doesn’t seem to be so effective. 
 Maybe other machine learning method like Random Forest may be more effective.
+
+
 <img width="1348" alt="Screenshot 2022-11-04 at 03 30 41" src="https://user-images.githubusercontent.com/102756389/199888055-f228e439-dfa4-422c-8344-1ef7eb163a66.png">
 
 

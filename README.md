@@ -66,8 +66,21 @@ Being a complex machine, Neural Network has lot of moving parts to keep track of
 Neural Network is a complex machine with “black box” nature and it’s difficult to understand how it arrives at certain prediction. Therefore, its difficult to predict what would help improve accuracy of this model to the desired result of above 75% accuracy except for a lot of brute-force experimentation. Tweaking and adjusting the hyperparameters doesn’t seem to be so effective. 
 Maybe other machine learning method like Random Forest may be more effective.
 ![image](https://user-images.githubusercontent.com/102756389/199887021-95017065-d620-4592-b345-b6f01fae785e.png)
+<img width="1348" alt="Screenshot 2022-11-04 at 03 30 41" src="https://user-images.githubusercontent.com/102756389/199887590-df687dbe-e149-4742-933f-a33a014d7007.png">
 
 - - - 
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
 
+
+<img width="869" alt="Screenshot 2022-11-04 at 03 36 51" src="https://user-images.githubusercontent.com/102756389/199887601-edc8ce5f-d20c-4a05-91f4-c2953119201c.png">
+
+![Uploading Screenshot 2022-11-04 at 03.30.41.png…]()
+
+
+
+<img width="961" alt="Screenshot 2022-11-04 at 03 37 47" src="https://user-images.githubusercontent.com/102756389/199887607-860a2258-9dc3-4227-b057-4686602c6fa4.png">
+<img width="753" alt="Screenshot 2022-11-04 at 03 38 26" src="https://user-images.githubusercontent.com/102756389/199887617-7811f88f-8fbb-41af-86ec-5fe76da426cc.png">
+
+<img width="1014" alt="Screenshot 2022-11-04 at 03 38 48" src="https://user-images.githubusercontent.com/102756389/199887625-c7942530-307e-4609-bc45-ca497c5eab19.png">
+<img width="938" alt="Screenshot 2022-11-04 at 03 40 13" src="https://user-images.githubusercontent.com/102756389/199887633-3bc95768-2697-4b56-ac74-7c40827c82b1.png">

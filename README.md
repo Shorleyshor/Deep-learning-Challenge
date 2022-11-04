@@ -2,7 +2,8 @@
 
 ANALYSIS
 
-Overview
+Overview:
+
 The purpose of this analysis is to use the knowledge of machine learning and neural networks  and use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup. Alphabet Soup is a non-profit foundation that wants a tool that can help it select the applicants for funding with the best chance of success in their ventures.
 The aim of this analysis is to attempt to develop a Design a neural network model with over 75% accuracy in predicting success.
 The starting dataset consisted of a CSV of over 34,000 organizations that received funding from Alphabet Soup. The columns in the dataset included:
@@ -18,20 +19,26 @@ The starting dataset consisted of a CSV of over 34,000 organizations that receiv
 •	ASK_AMT — Funding amount requested
 •	IS_SUCCESSFUL — Was the money used effectively
 
+
 The libraries used were:
+
 •	Pandas
 •	Scikit-learn
 •	Tensorflow
 
+
 The applications used are:
+
 •	Colab
 •	Microsoft word
 •	Github
 •	Terminal
 
-Results
 
-Pre-processing
+Results::
+
+Pre-processing:
+
 The first step was to examine and pre-process the provided dataset.
 •	The target variable was the IS_SUCCESSFUL column.
 •	The unnecessary data for the purposes of this model were the EIN and NAME  and “INCOME_AMT columns.
@@ -42,14 +49,19 @@ The first step was to examine and pre-process the provided dataset.
 •	The SPECIAL_CONSIDERATIONS_N column was dropped, as it was redundant to the SPECIAL_CONSIDERATIONS_Y column.
 •	All columns were then scaled using StandardScaler.
 
-Compiling, Training, and The Evaluating
+
+
+Compiling, Training, and The Evaluating:
+
 In the initial model I used, two hidden layers were used with a of 80 and 45 neurons respectively. In both hidden layers, "relu" activation function was used and "sigmoid" activation function was used for theoutput. This gives a result with an Accuracy of 0.728 (72.8%) and Loss of 0.567.
 For the second model, three hidden layers were with a of 80, 50 and 40 neurons respectively. The "leaky relu" activation function was used in all three hidden layer and "sigmoid" activation function was used for the out-put. This gives a result with an Accuracy of 0.727 (72.7%) and a Loss of 0.555.
 In the third Model, three hidden layers were also deployed with 80,50 and 40 neurons respectively. In all three hidden layers, the "tanh" activation function was used, and "sigmoid" activation function was used for the out-put. This produced a result with an Accuracy of 0.728 (72.8%) and Loss of 0.554.
 From the Analysis above, not much difference is noticed in both the loss and accuracy of all three models.
 All modes show a result with accuracy withing 72.8% and loss of 0.555. Across all three of my attempts, I never managed to raise my models' accuracy above 72.8%.
 
-Summary
+
+Summary:
+
 Being a complex machine, Neural Network has lot of moving parts to keep track of. 
 Neural Network is a complex machine with “black box” nature and it’s difficult to understand how it arrives at certain prediction. Therefore, its difficult to predict what would help improve accuracy of this model to the desired result of above 75% accuracy except for a lot of brute-force experimentation. Tweaking and adjusting the hyperparameters doesn’t seem to be so effective. 
 Maybe other machine learning method like Random Forest may be more effective.

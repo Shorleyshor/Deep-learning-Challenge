@@ -65,21 +65,17 @@ Summary:
 Being a complex machine, Neural Network has lot of moving parts to keep track of. 
 Neural Network is a complex machine with “black box” nature and it’s difficult to understand how it arrives at certain prediction. Therefore, its difficult to predict what would help improve accuracy of this model to the desired result of above 75% accuracy except for a lot of brute-force experimentation. Tweaking and adjusting the hyperparameters doesn’t seem to be so effective. 
 Maybe other machine learning method like Random Forest may be more effective.
+<img width="1348" alt="Screenshot 2022-11-04 at 03 30 41" src="https://user-images.githubusercontent.com/102756389/199888055-f228e439-dfa4-422c-8344-1ef7eb163a66.png">
 
 
-- - - 
+<img width="869" alt="Screenshot 2022-11-04 at 03 36 51" src="https://user-images.githubusercontent.com/102756389/199888068-64d5d5ec-c632-4a5b-b1d2-e5f05acac401.png">
+
+<img width="961" alt="Screenshot 2022-11-04 at 03 37 47" src="https://user-images.githubusercontent.com/102756389/199888078-cdd4b04c-aad3-4572-b8cb-07b913f47ef8.png">
+<img width="753" alt="Screenshot 2022-11-04 at 03 38 26" src="https://user-images.githubusercontent.com/102756389/199888103-b28e8ca1-122e-4d99-9db4-8a5d7f308864.png">
+
+<img width="1014" alt="Screenshot 2022-11-04 at 03 38 48" src="https://user-images.githubusercontent.com/102756389/199888109-9a6ab7b1-191e-43a5-9bb4-ec9e9aed6b9e.png">
+
+<img width="938" alt="Screenshot 2022-11-04 at 03 40 13" src="https://user-images.githubusercontent.com/102756389/199888141-ea7f2c00-a39d-4c64-869b-b1535fecc4a0.png">
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
 
-
-<img width="869" alt="Screenshot 2022-11-04 at 03 36 51" src="https://user-images.githubusercontent.com/102756389/199887601-edc8ce5f-d20c-4a05-91f4-c2953119201c.png">
-
-![Uploading Screenshot 2022-11-04 at 03.30.41.png…]()
-
-
-
-<img width="961" alt="Screenshot 2022-11-04 at 03 37 47" src="https://user-images.githubusercontent.com/102756389/199887607-860a2258-9dc3-4227-b057-4686602c6fa4.png">
-<img width="753" alt="Screenshot 2022-11-04 at 03 38 26" src="https://user-images.githubusercontent.com/102756389/199887617-7811f88f-8fbb-41af-86ec-5fe76da426cc.png">
-
-<img width="1014" alt="Screenshot 2022-11-04 at 03 38 48" src="https://user-images.githubusercontent.com/102756389/199887625-c7942530-307e-4609-bc45-ca497c5eab19.png">
-<img width="938" alt="Screenshot 2022-11-04 at 03 40 13" src="https://user-images.githubusercontent.com/102756389/199887633-3bc95768-2697-4b56-ac74-7c40827c82b1.png">
